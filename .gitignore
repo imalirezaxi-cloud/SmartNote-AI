@@ -1,0 +1,20 @@
+node_modules/
+.venv/
+__pycache__/
+.env
+# API keys and environment files
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+dist/
+
+# IDE
+.vscode/
